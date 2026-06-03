@@ -13,7 +13,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
 <<<<<<< HEAD
         Message('App published: Hello worldtest git3');
 =======
-        Message('App published: Hello worldtest git2');
->>>>>>> f048592 (test)
+        Message('App published: Hello worldtest git2333');
+>>>>>>> f048592(test)
     end;
 }
