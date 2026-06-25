@@ -6,5 +6,5 @@
 
 
 
-// Message('App published: Hello worldtest gitv5');
+// Message('App published: Hello worldtest gitv6');
 
