@@ -11,9 +11,13 @@ pageextension 50100 CustomerListExt extends "Customer List"
     trigger OnOpenPage();
     begin
 <<<<<<< HEAD
-        Message('App published: Hello worldtest git2');
+        Message('App published: Hello worldtest git2v3');
 =======
+<<<<<<< HEAD
         Message('App published: Hello worldtest gitjune25th');
->>>>>>> 6890fd2(first commit)
+=======
+        Message('App published: Hello worldtest gitv4');
+>>>>>>> 38ffb14(v3)
+>>>>>>> 6890 fd2(first commit)
     end;
 }
